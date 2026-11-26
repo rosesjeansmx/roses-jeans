@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rosesjeansmx.github.io/roses-jeans/sitemap.xml
